@@ -1,18 +1,3 @@
-2024/03/19-11:26:02.509 4024 Reusing MANIFEST D:\apiwhatsapp\tokens\41998315163\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/03/19-11:26:02.509 4024 Recovering log #132
-2024/03/19-11:26:02.525 4024 Reusing old log D:\apiwhatsapp\tokens\41998315163\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000132.log 
-2024/03/19-11:26:13.686 4024 Level-0 table #137: started
-2024/03/19-11:26:13.695 4024 Level-0 table #137: 273471 bytes OK
-2024/03/19-11:26:13.699 4024 Delete type=0 #132
-2024/03/19-11:26:13.699 4024 Manual compaction at level-0 from '\x009\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00:\x00\x00\x00' @ 0 : 0; will stop at '\x009\x00\x00\x05' @ 169609 : 1
-2024/03/19-11:26:13.699 4024 Compacting 1@0 + 1@1 files
-2024/03/19-11:26:13.745 4024 Generated table #138@0: 43724 keys, 799998 bytes
-2024/03/19-11:26:13.746 4024 Compacted 1@0 + 1@1 files => 799998 bytes
-2024/03/19-11:26:13.750 4024 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/03/19-11:26:13.750 4024 Delete type=2 #137
-2024/03/19-11:26:13.751 4024 Manual compaction at level-0 from '\x009\x00\x00\x05' @ 169609 : 1 .. '\x00:\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/03/19-11:41:44.014 5520 Compacting 1@1 + 1@2 files
-2024/03/19-11:41:44.047 5520 Generated table #139@1: 16966 keys, 559922 bytes
-2024/03/19-11:41:44.047 5520 Compacted 1@1 + 1@2 files => 559922 bytes
-2024/03/19-11:41:44.051 5520 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/03/19-11:41:44.052 5520 Delete type=2 #134
+2024/03/20-10:26:45.665 3980 Reusing MANIFEST D:\apiwhatsapp\tokens\41998315163\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/20-10:26:45.666 3980 Recovering log #136
+2024/03/20-10:26:45.706 3980 Reusing old log D:\apiwhatsapp\tokens\41998315163\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000136.log 
