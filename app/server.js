@@ -21,7 +21,8 @@ const server = {
         process.env.TZ = "America/Sao_Paulo";
         const app = express();
 
-
+        app.use(express.static('images'));
+        
         app.use(bodyParser.urlencoded({ extended: true }));
         app.use(bodyParser.json());
         app.use(cookieParser());

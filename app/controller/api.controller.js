@@ -45,7 +45,7 @@ class ApiController extends Base {
 
                                 var imageBuffer = response;
                                 require('fs').writeFile(
-                                    'qrcode' + body.instance_name + '.png',
+                                    'images/qrcode' + body.instance_name + '.png',
                                     imageBuffer['data'],
                                     'binary',
                                     function (err) {

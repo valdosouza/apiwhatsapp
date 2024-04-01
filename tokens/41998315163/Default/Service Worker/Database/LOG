@@ -1,3 +1,2 @@
-2024/03/20-10:26:45.335 3ed4 Reusing MANIFEST D:\apiwhatsapp\tokens\41998315163\Default\Service Worker\Database/MANIFEST-000001
-2024/03/20-10:26:45.339 3ed4 Recovering log #3
-2024/03/20-10:26:45.340 3ed4 Reusing old log D:\apiwhatsapp\tokens\41998315163\Default\Service Worker\Database/000003.log 
+2024/04/01-11:19:28.193 2d30 Creating DB D:\apiwhatsapp\tokens\41998315163\Default\Service Worker\Database since it was missing.
+2024/04/01-11:19:28.213 2d30 Reusing MANIFEST D:\apiwhatsapp\tokens\41998315163\Default\Service Worker\Database/MANIFEST-000001
