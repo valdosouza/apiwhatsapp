@@ -1,4 +1,0 @@
-2024/04/01-11:19:08.220 38c8 Creating DB D:\apiwhatsapp\tokens\41998315163\Default\shared_proto_db since it was missing.
-2024/04/01-11:19:08.231 38c8 Reusing MANIFEST D:\apiwhatsapp\tokens\41998315163\Default\shared_proto_db/MANIFEST-000001
-2024/04/01-11:19:08.234 38c8 Recovering log #3
-2024/04/01-11:19:08.234 38c8 Reusing old log D:\apiwhatsapp\tokens\41998315163\Default\shared_proto_db/000003.log 

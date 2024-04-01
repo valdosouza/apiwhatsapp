@@ -1,7 +1,0 @@
-2024/04/01-11:19:08.179 2530 Creating DB D:\apiwhatsapp\tokens\41998315163\Default\Local Storage\leveldb since it was missing.
-2024/04/01-11:19:08.190 2530 Reusing MANIFEST D:\apiwhatsapp\tokens\41998315163\Default\Local Storage\leveldb/MANIFEST-000001
-2024/04/01-11:19:08.194 2530 Recovering log #3
-2024/04/01-11:19:08.198 2530 Reusing old log D:\apiwhatsapp\tokens\41998315163\Default\Local Storage\leveldb/000003.log 
-2024/04/01-11:21:11.463 2d30 Level-0 table #5: started
-2024/04/01-11:21:11.466 2d30 Level-0 table #5: 19496 bytes OK
-2024/04/01-11:21:11.472 2d30 Delete type=0 #3
