@@ -163,7 +163,7 @@ class ApiController extends Base {
         const promise = new Promise(async (resolve, reject) => {
             try {
 
-                var autoAnswer = await Functions.existWord(body.body);
+                var autoAnswer = false;//await Functions.existWord(body.body);
                 console.log("autoAnswer: " + autoAnswer);
                 var numberFrom = this.getNumberFrom(body);
                 var numberTo = this.getNumberTo(body);
